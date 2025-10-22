@@ -1,0 +1,14 @@
+# Course 1: Programming for Everybody
+
+This folder contains honors-level assignments from the first course in the Python for Everybody specialization by Dr. Charles Severance.
+
+## Topics Covered
+- Python syntax and semantics
+- Variables, expressions, and statements
+- Conditional logic (`if`, `elif`, `else`)
+- Functions and loops
+
+## Highlights
+- Executed using Python 3 via command prompt
+- Early foundation for structured problem-solving
+- Includes exercises like `ex1.py`, `ex2.py`, and conditional logic tasks
