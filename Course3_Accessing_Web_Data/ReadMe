@@ -1,0 +1,26 @@
+# Course 3: Accessing Web Data with Python
+
+This folder contains honors-level assignments from Course 3 of the Python for Everybody specialization by Dr. Charles Severance.
+
+## 📚 Topics Covered
+- Regular expressions (`re`)
+- Web scraping with BeautifulSoup
+- Working with XML and JSON data
+- Accessing APIs using `urllib` and `ssl`
+
+## 🧠 Highlights
+- Honors exercises with extended logic and deeper parsing
+- Extracted structured data from web pages and APIs
+- Demonstrated proficiency in handling real-world web data formats
+
+## 🗂️ Folder Contents
+Typical files include:
+- `regex_extraction.py`
+- `xml_parsing.py`
+- `json_api_assignment.py`
+- `README.md`
+
+All scripts were executed using Python 3 and tested via command prompt or Jupyter Notebook.
+
+## 💡 Why This Matters
+This course bridges the gap between basic Python and real-world data access. It showcases how to retrieve, clean, and analyze data from the web—an essential skill for bioinformatics, healthcare analytics, and data science roles.
