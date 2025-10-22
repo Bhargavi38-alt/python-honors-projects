@@ -1,0 +1,37 @@
+🗺️ Capstone Project: Geocoding Osmania University
+This project demonstrates how to retrieve and visualize geographic data using Python and OpenStreetMap. 
+It was developed as part of the Python for Everybody specialization by Dr. Charles Severance
+(Dr. Chuck), specifically building on the geocoding module in Course 4.
+While the core files (where.js, where.html) were provided by Dr. Chuck, the location choice (Osmania University)
+and execution were independently developed and personalized.
+
+🔧 Tools & Technologies Used
+- Python 3 (executed via command prompt)
+- urllib, json, ssl
+- OpenStreetMap
+- where.js and where.html (course-provided visualization tools)
+
+📍 Project Overview
+- Input: "Osmania University"
+- Output: Latitude/Longitude retrieved and plotted on OpenStreetMap
+- Execution: Python script run via command prompt, followed by HTML/JS visualization
+
+Capstone_Project/
+├── geocoding_osmania.py          # Python script for geocoding
+├── where.js                      # JavaScript for map rendering (course-provided)
+├── where.html                    # HTML template for OpenStreetMap (course-provided)
+├── screenshots/
+│   ├── map_output.png            # Screenshot of map visualization
+│   └── execution_prompt.png      # Screenshot of Python command prompt
+└── README.md                     # Project documentation
+
+🖼️ Screenshots
+Screenshots are stored in the screenshots/ folder:
+- map_output.png: Shows the location of Osmania University on OpenStreetMap
+- execution_prompt.png: Shows successful execution of the Python script
+
+💡 Why This Project Matters
+This capstone reflects the integration of multiple Python skills—data retrieval, parsing, and 
+visualization—into a cohesive, real-world application. It closely follows the course structure while 
+demonstrating independent execution and contextual adaptation. It’s a strong example of applying course
+knowledge to a personalized use case.
