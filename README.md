@@ -9,6 +9,7 @@ The specialization covers:
 - Web scraping and APIs
 - Working with databases using SQLite
 - Data visualization and file handling
+  
 🏅 Honors Work
 Although Coursera no longer displays honors badges on certificates (as of 2025), all assignments here reflect my extra effort to deepen understanding beyond the core curriculum.
 📁 Structure
