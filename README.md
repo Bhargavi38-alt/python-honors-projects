@@ -15,8 +15,8 @@ Although Coursera no longer displays honors badges on certificates (as of 2025),
 📁 Structure
 Each folder contains:
 - Python scripts (.py) 
-- Problem statements 
 - My solutions
+- Images in the project
   
 💡 Why This Matters
 These projects demonstrate:
