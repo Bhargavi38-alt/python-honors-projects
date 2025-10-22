@@ -16,7 +16,8 @@ Although Coursera no longer displays honors badges on certificates (as of 2025),
 Each folder contains:
 - Python scripts (.py) 
 - Problem statements 
-- My solutions 
+- My solutions
+  
 💡 Why This Matters
 These projects demonstrate:
 - Practical coding skills
