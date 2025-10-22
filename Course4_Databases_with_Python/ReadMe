@@ -1,0 +1,23 @@
+# Course 4: Using Databases with Python
+
+This folder contains honors-level assignments from Course 4 of the Python for Everybody specialization by Dr. Charles Severance.
+
+## 📚 Topics Covered
+- SQLite database creation and querying
+- Connecting Python to databases using `sqlite3`
+- Writing SQL queries for data extraction and manipulation
+- Building simple data models and relationships
+
+## 🧠 Highlights
+- Honors tasks involving multi-table joins and advanced filtering
+- Created and queried `.sqlite` files using Python scripts
+- Demonstrated ability to integrate SQL logic into Python workflows
+
+## 🗂️ Folder Contents
+
+Manyto Many.py
+
+All scripts were executed using Python 3 and tested via command line or Jupyter Notebook.
+
+## 💡 Why This Matters
+This course showcases the ability to work with structured data using SQL and Python—an essential skill for roles in bioinformatics, healthcare analytics, and business intelligence.
